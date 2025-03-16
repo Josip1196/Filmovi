@@ -71,7 +71,7 @@ section ul li {
 }
 
 .card:hover {
-    transform: scale(1.05);
+    transform: scale(0.90);
 }
 
 /* Slike */
