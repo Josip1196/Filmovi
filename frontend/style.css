@@ -38,6 +38,12 @@ nav ul li a:hover {
     color: #ffb84d;
 }
 
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 section {
     padding: 20px;
 }
